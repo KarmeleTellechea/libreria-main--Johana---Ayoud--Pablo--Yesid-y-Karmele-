@@ -1,0 +1,1017 @@
+{
+    "Biografia": [
+        {
+            "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.EwF5RBkvglsIbjKiL3wbGgHaKX%26pid%3DApi&f=1&ipt=51d1fd667378be8335cff80732b107090310d0def248243eaa7f731f76508f2c&ipo=images",
+            "title": "La Vida de Un Genio",
+            "publish_date": "2023-04-15",
+            "author": "Autor Biografía",
+            "resume": "Un recorrido detallado por la vida de un genio incomprendido.",
+            "tags": [
+                "Biografia"
+            ],
+            "quantity": 1 
+        },
+        {
+            "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fhips.hearstapps.com%2Fvader-prod.s3.amazonaws.com%2F1637080014-510WotPpO1L._SL500_.jpg%3Fcrop%3D0.986xw%3A1xh%3Bcenter%2Ctop%26resize%3D480%3A*&f=1&nofb=1&ipt=b8fa465b7cd8c81f8d99601e8492f78c75a65e6a026afb935a1d4708c6b4dc5d&ipo=images",
+            "title": "Historias de Superación" ,
+            "publish_date": "2023-05-20",
+            "author": "Biografo",
+            "resume": "Relatos inspiradores de personas que superaron grandes desafíos.",
+            "tags": [
+                "Biografia"
+            ]
+            
+        },
+        {
+            "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimagessl8.casadellibro.com%2Fa%2Fl%2Ft0%2F08%2F9788478087808.jpg&f=1&nofb=1&ipt=562d71c942ecafe86edc1d8124a2ca8064a46a4fc9869c45b86fe60c2153c30b&ipo=images",
+            "title": "Mentes Brillantes",
+            "publish_date": "2023-06-25",
+            "author": "Autor Biografía",
+            "resume": "Una mirada a las vidas de las mentes más brillantes de la historia.",
+            "tags": [
+                "Biografia"
+            ]
+        },
+        {
+            "image": "https://m.media-amazon.com/images/I/813sMWuCvPL._AC_UF894,1000_QL80_.jpg",
+            "title": "En agosto nos vemos",
+            "publish_date": "2023-07-30",
+            "author": "Gabriel Garcia",
+            "resume": "Biografías de figuras cuyo legado ha perdurado a lo largo del tiempo.",
+            "tags": [
+                "Biografia"
+            ]
+        },
+        {
+            "image": "https://m.media-amazon.com/images/I/91TvVQS7loL._AC_UF894,1000_QL80_.jpg",
+            "title": "Cien años de soledad",
+            "publish_date": "2023-08-04",
+            "author": "Escritor",
+            "resume": "Historias de individuos que han tenido un impacto duradero en el mundo.",
+            "tags": [
+                "Biografia"
+            ]
+        },
+        {
+            "image": "https://m.media-amazon.com/images/I/41xSvqYGMFL.jpg",
+            "title": "Los Héroes de la Historia",
+            "publish_date": "2023-09-10",
+            "author": "Autor",
+            "resume": "Una colección de biografías de héroes y heroínas a lo largo de la historia.",
+            "tags": [
+                "Biografia"
+            ]
+        },
+        {
+            "image": "https://m.media-amazon.com/images/I/71vbKK+cDKL._AC_UF1000,1000_QL80_.jpg",
+            "title": "Iconos de la Cultura",
+            "publish_date": "2023-10-15",
+            "author": "Culturalista",
+            "resume": "Un recorrido por la vida de los iconos culturales más influyentes.",
+            "tags": [
+                "Biografia"
+            ]
+        },
+        {
+            "image": "https://llibreriacanillo.com/wp-content/uploads/2024/04/978843062703.jpg",
+            "title": "Pioneros y Visionarios",
+            "publish_date": "2023-11-20",
+            "author": "Historiador",
+            "resume": "Biografías de pioneros y visionarios en diferentes campos.",
+            "tags": [
+                "Biografia"
+            ]
+        },
+        {
+            "image": "https://www.coceder.org/images/prensa/portada%20libro%20historias%20de%20vida.jpg",
+            "title": "Historias de Vida",
+            "publish_date": "2023-12-25",
+            "author": "Autor",
+            "resume": "Un vistazo a las vidas fascinantes de personas comunes y extraordinarias.",
+            "tags": [
+                "Biografia"
+            ]
+        }
+    ],
+    "Historia": [
+        {
+            "image": "https://m.media-amazon.com/images/I/81NwML63NhL._AC_UF894,1000_QL80_.jpg",
+            "title": "La Gran Guerra",
+            "publish_date": "2024-01-20",
+            "author": "Historiador",
+            "resume": "Un análisis profundo de los eventos que llevaron a la Gran Guerra.",
+            "tags": [
+                "Historia"
+            ]
+        },
+        {
+            "image": "https://images.cdn1.buscalibre.com/fit-in/360x360/86/d5/86d5c72d82b2845bc99e8159d6d94a4b.jpg",
+            "title": "Civilizaciones Antiguas",
+            "publish_date": "2024-02-18",
+            "author": "Arqueólogo",
+            "resume": "Explorando las civilizaciones antiguas y sus legados.",
+            "tags": [
+                "Historia"
+            ]
+        },
+        {
+            "image": "https://www.buridan.es/3051-large_default/las-ideas-que-cambiaron-el-mundo-relatividad-mecanica-cuantica-y-la-revolucion-tecnologica-del-siglo-xx.jpg",
+            "title": "Revoluciones que Cambiaron el Mundo",
+            "publish_date": "2024-03-15",
+            "author": "Historiador",
+            "resume": "Un estudio sobre las revoluciones más importantes de la historia.",
+            "tags": [
+                "Historia"
+            ]
+        },
+        {
+            "image": "https://imagessl2.casadellibro.com/a/l/s5/92/9788466233392.webp",
+            "title": "Guerras y Conflictos",
+            "publish_date": "2024-04-20",
+            "author": "Escritor",
+            "resume": "Una mirada a las guerras y conflictos que han moldeado nuestro mundo.",
+            "tags": [
+                "Historia"
+            ]
+        },
+        {
+            "image": "https://www.todoliteratura.es/fotos/23/dinastia.jpg",
+            "title": "Imperios y Dinastías",
+            "publish_date": "2024-05-25",
+            "author": "Historiador",
+            "resume": "La historia de los grandes imperios y dinastías que gobernaron el mundo.",
+            "tags": [
+                "Historia"
+            ]
+        },
+        {
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXRhZ3rjMSBLDhKw9HRWsQ8UFhqLrqarbnsw&s",
+            "title": "Personajes Históricos",
+            "publish_date": "2024-06-30",
+            "author": "Autor",
+            "resume": "Biografías de los personajes históricos más influyentes.",
+            "tags": [
+                "Historia"
+            ]
+        },
+        {
+            "image": "https://lesbicanarias.es/wp-content/uploads/2013/12/Libro-L%C3%A9sbico-Secretos-del-pasado-e1386327993998.jpg",
+            "title": "El Pasado y Sus Secretos",
+            "publish_date": "2024-07-15",
+            "author": "Escritor",
+            "resume": "Descubriendo los secretos ocultos de la historia.",
+            "tags": [
+                "Historia"
+            ]
+        },
+        {
+            "image": "https://m.media-amazon.com/images/I/91jV+2EmOrL._AC_UF894,1000_QL80_.jpg",
+            "title": "Eras y Épocas",
+            "publish_date": "2024-08-20",
+            "author": "Historiador",
+            "resume": "Un viaje a través de las diferentes eras y épocas históricas.",
+            "tags": [
+                "Historia"
+            ]
+        },
+        {
+            "image": "https://m.media-amazon.com/images/I/71U1MPnFOiL._AC_UF1000,1000_QL80_.jpg",
+            "title": "Grandes Descubrimientos",
+            "publish_date": "2024-09-25",
+            "author": "Arqueólogo",
+            "resume": "Los grandes descubrimientos arqueológicos que cambiaron la historia.",
+            "tags": [
+                "Historia"
+            ]
+        }
+    ],
+    "Ciencia": [
+        {
+            "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.akal.com%2Fmedia%2Fakal%2Fimages%2Fcover-35109.jpg&f=1&nofb=1&ipt=80b27639d1db88d15a928b13b9ae9aa5524723d1956cca4459d811c141bc04f5&ipo=images",
+            "title": "Descubrimientos Científicos",
+            "publish_date": "2022-08-10",
+            "author": "Científico",
+            "resume": "Los descubrimientos científicos más importantes del siglo.",
+            "tags": [
+                "Ciencia"
+            ]
+        },
+        {
+            "image": "https://m.media-amazon.com/images/I/71TUEttcoRL._AC_UF1000,1000_QL80_.jpg",
+            "title": "Avances Tecnológicos",
+            "publish_date": "2022-09-15",
+            "author": "Ingeniero",
+            "resume": "Los avances tecnológicos que están cambiando el mundo.",
+            "tags": [
+                "Ciencia"
+            ]
+        },
+        {
+            "image": "https://www.plazayvaldes.es/uploads/2021/09/resized/600_epistemologia-de-la-medicina1.jpg",
+            "title": "Innovaciones en la Medicina",
+            "publish_date": "2022-10-20",
+            "author": "Doctor",
+            "resume": "Las innovaciones médicas más recientes y sus impactos.",
+            "tags": [
+                "Ciencia"
+            ]
+        },
+        {
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDk6k7b9r4NlN6MsCNATVei5zDB9zubjfr7Q&s",
+            "title": "El Universo y Sus Misterios",
+            "publish_date": "2022-11-25",
+            "author": "Astrónomo",
+            "resume": "Explorando los misterios del universo.",
+            "tags": [
+                "Ciencia"
+            ]
+        },
+        {
+            "image": "https://m.media-amazon.com/images/I/71a0bK9LI0L.jpg",
+            "title": "La civilizacion de la memoria de pez",
+            "publish_date": "2022-12-30",
+            "author": "Científico",
+            "resume": "Pequeño  tratado sobre el mercao de la atencion",
+            "tags": [
+                "Ciencia"
+            ]
+        },
+        {
+            "image": "https://images.cdn3.buscalibre.com/fit-in/360x360/0a/2c/0a2ca8029bec6cca248812433d262a64.jpg",
+            "title": "tegnologia",
+            "publish_date": "2023-01-05",
+            "author": "Futurista",
+            "resume": "Predicciones sobre el futuro de la ciencia y la tecnología.",
+            "tags": [
+                "Ciencia"
+            ]
+        },
+        {
+            "image": "https://content.nationalgeographic.com.es/medio/2019/03/14/1mujeres-cientificas-alta_335d716a_1200x1796.jpg",
+            "title": "Científicos Famosos",
+            "publish_date": "2023-02-10",
+            "author": "Historiador",
+            "resume": "Biografías de los científicos más famosos de la historia.",
+            "tags": [
+                "Ciencia"
+            ]
+        },
+        {
+            "image": "https://www.libreriacodex.com/es/imagenes/9788491/978849142362.GIF",
+            "title": "La Ciencia del Clima",
+            "publish_date": "2023-03-15",
+            "author": "Climatólogo",
+            "resume": "Un estudio sobre la ciencia detrás del cambio climático.",
+            "tags": [
+                "Ciencia"
+            ]
+        },
+        {
+            "image": "https://m.media-amazon.com/images/I/91T8-O1I7fL._AC_UF894,1000_QL80_.jpg",
+            "title": "Exploración Espacial",
+            "publish_date": "2023-04-20",
+            "author": "Astronauta",
+            "resume": "La historia y el futuro de la exploración espacial.",
+            "tags": [
+                "Ciencia"
+            ]
+        }
+    ],
+    "InfantilYJuvenil": [
+        {
+            "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fespaciolibros.com%2Fwp-content%2Fuploads%2F2019%2F06%2Fmejores-libros-juveniles-la-bella-y-la-bestia-amazon.jpg&f=1&nofb=1&ipt=4aa72af7e72223cd119016e9bfe4d2d42f7a2d54e5e5d3be2455420dec974638&ipo=images",
+            "title": "Cuentos para Niños",
+            "publish_date": "2021-11-05",
+            "author": "Autor Infantil",
+            "resume": "Historias encantadoras para los más pequeños.",
+            "tags": [
+                "Infantil y Juvenil"
+            ]
+        },
+        {
+            "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fespaciolibros.com%2Fwp-content%2Fuploads%2F2019%2F06%2Fmejores-libros-juveniles-tu-y-otros-desastres-naturales-amazon.jpg&f=1&nofb=1&ipt=61a1524360cd163296d9499e1bb43f6f2479f95f630a0ae492421ebc28a5dd31&ipo=images",
+            "title": "Aventuras en el Bosque",
+            "publish_date": "2021-12-10",
+            "author": "Escritor Infantil",
+            "resume": "Aventuras mágicas en un bosque encantado.",
+            "tags": [
+                "Infantil y Juvenil"
+            ]
+        },
+        {
+            "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fespaciolibros.com%2Fwp-content%2Fuploads%2F2019%2F06%2Fmejores-libros-juveniles-el-sotano-amazon.jpg&f=1&nofb=1&ipt=a63d117ade7ff7bf74ab45c96ad26d9aaac6fd6d9b7808177d6050ee4194f95e&ipo=images",
+            "title": "El Viaje del Héroe",
+            "publish_date": "2022-01-15",
+            "author": "Narrador",
+            "resume": "Un joven héroe embarca en una gran aventura.",
+            "tags": [
+                "Infantil y Juvenil"
+            ]
+        },
+        {
+            "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fstatic.megustaleer.com%2Fimages%2Flibros_650_x%2FENT88725.jpg&f=1&nofb=1&ipt=3e43031ea077fccdc68a11fcc65d50b5a835479e158c100db1f0fb844a68c15f&ipo=images",
+            "title": "Historias de Animales",
+            "publish_date": "2022-02-20",
+            "author": "Autor Infantil",
+            "resume": "Cuentos sobre animales y sus travesuras.",
+            "tags": [
+                "Infantil y Juvenil"
+            ]
+        },
+        {
+            "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2F1.bp.blogspot.com%2F-LrmTBYVCiuc%2FXfCQuz7DAyI%2FAAAAAAAAG9s%2F_auilQDErhwpEYoIxi9MbxmM_IindZ6cgCEwYBhgL%2Fs1600%2FCuando%252Breescribamos%252Bla%252Bhistoria.jpg&f=1&nofb=1&ipt=3d8eb797112751f596d2c7425116094acb8aeec36d478c0273c891871d093648&ipo=imagesg",
+            "title": "El Reino Mágico",
+            "publish_date": "2022-03-25",
+            "author": "Escritor",
+            "resume": "Un reino mágico lleno de sorpresas y aventuras.",
+            "tags": [
+                "Infantil y Juvenil"
+            ]
+        },
+        {
+            "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimages-na.ssl-images-amazon.com%2Fimages%2FI%2F71qMxCdi7fL.jpg&f=1&nofb=1&ipt=90f196ae0a68453ea807d8e6c941ad2822acd1f48bfbb3281436af8556cecc6b&ipo=images",
+            "title": "Amigos para Siempre",
+            "publish_date": "2022-04-30",
+            "author": "Narrador",
+            "resume": "La historia de una amistad inquebrantable.",
+            "tags": [
+                "Infantil y Juvenil"
+            ]
+        },
+        {
+            "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fm.media-amazon.com%2Fimages%2FI%2F517FhAVq4%2BL._SL500_.jpg&f=1&nofb=1&ipt=27296f2dca9fe7b97c726b1055d4859db2b84003de1e126d87df16e568c4e971&ipo=images",
+            "title": "El Misterio del Castillo",
+            "publish_date": "2022-05-15",
+            "author": "Autor",
+            "resume": "Un grupo de niños resuelve el misterio de un viejo castillo.",
+            "tags": [
+                "Infantil y Juvenil"
+            ]
+        },
+        {
+            "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2F1.bp.blogspot.com%2F-AttMQYbTMwA%2FXe4NPpagXWI%2FAAAAAAAANMA%2FlEOy2TuxiqIbLVcW9yuPsEKwbPWL-EObwCLcBGAsYHQ%2Fs16000%2Fnovela-juvenil-a-dos-metros-de-ti.jpg&f=1&nofb=1&ipt=237bff7fde1f64aa15c282334816edddc9ea29cc587235fcdaf44f8d0bac5aec&ipo=images",
+            "title": "Viaje al Fondo del Mar",
+            "publish_date": "2022-06-20",
+            "author": "Escritor Infantil",
+            "resume": "Una emocionante aventura bajo el mar.",
+            "tags": [
+                "Infantil y Juvenil"
+            ]
+        },
+        {
+            "image": "https://www.planetadelibros.com/usuaris/libros/fotos/50/original/mi-primer-quijote_9788467036701.jpg",
+            "title": "Mi primer quijote",
+            "publish_date": "2022-07-25",
+            "author": "Narrador",
+            "resume": "Exploradores descubren una isla misteriosa.",
+            "tags": [
+                "Infantil y Juvenil"
+            ]
+        }
+    ],
+    "Autoayuda": [
+        {
+            "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.topcomparativas.com%2Fwp-content%2Fuploads%2F2019%2F07%2F51IjcbqjJKL-664x1024.jpg&f=1&nofb=1&ipt=587a69efafa4b12e895f2499f0bc293bd8efac4c6b490e82dcbed367183cad38&ipo=images",
+            "title": "Encuentra Tu Camino",
+            "publish_date": "2023-09-30",
+            "author": "Coach de Vida",
+            "resume": "Guía para encontrar la felicidad y el éxito personal.",
+            "tags": [
+                ""
+            ]
+        },
+        {
+            "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn0.psicologia-online.com%2Fes%2Fposts%2F8%2F7%2F5%2Fpoder_sin_limites_tony_robbins_2578_0_600.jpg&f=1&nofb=1&ipt=16ca667e7968666cf2c4280b78f40282a03775fb3e8c1a3b58396afbbb283d83&ipo=images",
+            "title": "El Poder del Pensamiento Positivo",
+            "publish_date": "2023-10-15",
+            "author": "Motivador",
+            "resume": "Cómo el pensamiento positivo puede transformar tu vida.",
+            "tags": [
+                "Autoayuda"
+            ]
+        },
+        {
+            "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.topcomparativas.com%2Fwp-content%2Fuploads%2F2019%2F07%2F513b-sAwNdL-788x1197.jpg&f=1&nofb=1&ipt=ee2fa69002818d845ae9314d26c621d8a4373b44b64309a95b2126b6d65d7ecf&ipo=images",
+            "title": "Despierta Tu Potencial",
+            "publish_date": "2023-11-01",
+            "author": "Coach",
+            "resume": "Estrategias para descubrir y desarrollar tu potencial oculto.",
+            "tags": [
+                "Autoayuda"
+            ]
+        },
+        {
+            "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.topcomparativas.com%2Fwp-content%2Fuploads%2F2019%2F07%2F8120b0or4L.jpg&f=1&nofb=1&ipt=7fdacd29447f7c74ce70c112c9804f8644d96caf0a14f90d869d8715fd59b6bf&ipo=images",
+            "title": "Vive con Propósito",
+            "publish_date": "2023-11-20",
+            "author": "Escritor Motivacional",
+            "resume": "Cómo vivir una vida llena de propósito y significado.",
+            "tags": [
+                "Autoayuda"
+            ]
+        },
+        {
+            "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi0.wp.com%2Fpsiqueduelo.com%2Fwp-content%2Fuploads%2F2019%2F11%2Flibros-de-autoayuda-2.jpg%3Ffit%3D1348%252C2048%26ssl%3D1&f=1&nofb=1&ipt=5d2aac0d85427f634e044f53580d058893163657be0d2a269d7d367e4828ae49&ipo=images",
+            "title": "El Arte de la Autoestima",
+            "publish_date": "2023-12-05",
+            "author": "Coach de Vida",
+            "resume": "Mejora tu autoestima y confianza en ti mismo.",
+            "tags": [
+                "Autoayuda"
+            ]
+        },
+        {
+            "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flibroveolibroleo.com%2Fwp-content%2Fuploads%2F2020%2F04%2FEl-fin-de-la-ansiedad--El-mensaje-que-cambiar---tu-vida-395x600.jpg&f=1&nofb=1&ipt=9595b706cf0ad0ccbda189714a431a7d8aa28cd5919ebf41a6bfffa8fa4b69b5&ipo=images",
+            "title": "Habilidades para la Vida",
+            "publish_date": "2023-12-20",
+            "author": "Motivador",
+            "resume": "Desarrolla las habilidades esenciales para una vida exitosa.",
+            "tags": [
+                "Autoayuda"
+            ]
+        },
+        {
+            "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimages-na.ssl-images-amazon.com%2Fimages%2FI%2F81GGobIuGhL.jpg&f=1&nofb=1&ipt=1bbde7ca601faace16997f4b7a3fff3a2f2b7236236d6b0c7986ded62323a9a8&ipo=images",
+            "title": "Transforma Tu Mente",
+            "publish_date": "2024-01-05",
+            "author": "Coach",
+            "resume": "Técnicas para transformar tu mente y cambiar tu vida.",
+            "tags": [
+                "Autoayuda"
+            ]
+        },
+        {
+            "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2F1.bp.blogspot.com%2F-FjCd7ZygJzY%2FXriH20U0NFI%2FAAAAAAAA-3E%2FCS4K8EvLVyMPT4RTsAloK_m0-hp9yLrhwCLcBGAsYHQ%2Fs1600%2Fportada_el-poder-de-confiar-en-ti_curro-canete_201902151307.jpg&f=1&nofb=1&ipt=7080148793600c42293c777ca43f76352f5610848cae150cc66010b0e7c0e1ae&ipo=images",
+            "title": "El Camino hacia el Éxito",
+            "publish_date": "2024-01-20",
+            "author": "Escritor Motivacional",
+            "resume": "Consejos prácticos para alcanzar el éxito personal y profesional.",
+            "tags": [
+                "Autoayuda"
+            ]
+        },
+        {
+            "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimages-na.ssl-images-amazon.com%2Fimages%2FI%2F918Tf9DRvKL.jpg&f=1&nofb=1&ipt=0a4e53e343b129e2569ab0f83d57fa46add2efd9d0ad08cd5183e62d0ca51c8a&ipo=images",
+            "title": "La Magia del Pensamiento",
+            "publish_date": "2024-02-05",
+            "author": "Coach de Vida",
+            "resume": "Descubre el poder de tus pensamientos y cómo pueden cambiar tu vida.",
+            "tags": [
+                "Autoayuda"
+            ]
+        }
+    ],
+    "CienciaFiccion": [
+        {
+            "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2Foriginals%2Fdf%2F5c%2Fc7%2Fdf5cc74fd4b73b8728f1db8573370e89.jpg&f=1&nofb=1&ipt=e068bc606d1a5c50dd3e5ff331f56953511f7d6e15a813d2f56058ba5615615f&ipo=images",
+            "title": "Mundos Paralelos",
+            "publish_date": "2025-03-14",
+            "author": "Escritor de Ciencia Ficción",
+            "resume": "Exploración de universos paralelos y futuros distópicos.",
+            "tags": [
+                ""
+            ]
+        },
+        {
+            "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.cinconoticias.com%2Fwp-content%2Fuploads%2FDune-689x1024.jpg&f=1&nofb=1&ipt=53c47c3471959a17fafcce149f841519bb07d01b1b99c7b8bfff9fbcd1d48027&ipo=images",
+            "title": "El Futuro Incierto",
+            "publish_date": "2025-04-01",
+            "author": "Narrador",
+            "resume": "Una visión del futuro incierto que nos espera.",
+            "tags": [
+                "Ciencia Ficción"
+            ]
+        },
+        {
+            "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fgcdn.emol.cl%2Fliteratura-fantastica%2Ffiles%2F2019%2F01%2FPortada-Contacto-Carl-Sagan.jpg&f=1&nofb=1&ipt=20a9f023f4e2506fb165f628a44e2658437a4b1a2d5cec0f34c42f8eb86423b4&ipo=images",
+            "title": "Tecnología Alienígena",
+            "publish_date": "2025-04-18",
+            "author": "Autor",
+            "resume": "La humanidad descubre y lucha con tecnología alienígena avanzada.",
+            "tags": [
+                "Ciencia Ficción"
+            ]
+        },
+        {
+            "image": "https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2F1.bp.blogspot.com%2F-03LfaBk-xcw%2FVAS5UGO_-CI%2FAAAAAAAAEfQ%2FamenbbAdPhI%2Fs1600%2Ftrilogiafundacion_gr.jpg&f=1&nofb=1&ipt=181b13177809184330c4c4410a8f5bcb7aec2b7d048473b214dc17c94e925ed6&ipo=images",
+            "title": "El Último Refugio",
+            "publish_date": "2025-05-05",
+            "author": "Escritor de Ciencia Ficción",
+            "resume": "En un mundo post-apocalíptico, los sobrevivientes buscan el último refugio seguro.",
+            "tags": [
+                "Ciencia Ficción"
+            ]
+        },
+        {
+            "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2Foriginals%2F8d%2F9b%2Fa5%2F8d9ba5df9a59ec6f73f0a40630247440.jpg&f=1&nofb=1&ipt=6bdc7754af04c345a55220da76d7a340bb191869d2df07bc961848f36b8f5155&ipo=images",
+            "title": "Robots y Humanos",
+            "publish_date": "2025-05-20",
+            "author": "Narrador",
+            "resume": "La coexistencia y conflictos entre robots y humanos en el futuro.",
+            "tags": [
+                "Ciencia Ficción"
+            ]
+        },
+        {
+            "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.cinconoticias.com%2Fwp-content%2Fuploads%2FSuenos-de-robot.jpg&f=1&nofb=1&ipt=433eabdad742a4a09463912b56fc300786f894ac08d03547f898c7d9fb6a97b4&ipo=images",
+            "title": "El Imperio Galáctico",
+            "publish_date": "2025-06-10",
+            "author": "Autor",
+            "resume": "Batallas épicas en un vasto imperio galáctico.",
+            "tags": [
+                "Ciencia Ficción"
+            ]
+        },
+        {
+            "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fgcdn.emol.cl%2Fliteratura-fantastica%2Ffiles%2F2019%2F01%2FFuego-y-sangre.jpg.jpg&f=1&nofb=1&ipt=c36aa8b142643e01b42d579d224aa7f4e6a9cae883ec9bd835e4b866cb959cb1&ipo=images",
+            "title": "El Portal del Tiempo",
+            "publish_date": "2025-06-25",
+            "author": "Escritor de Ciencia Ficción",
+            "resume": "Viajes en el tiempo y sus consecuencias impredecibles.",
+            "tags": [
+                "Ciencia Ficción"
+            ]
+        },
+        {
+            "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimg.remediosdigitales.com%2Fa1b743%2F91w9ttugnpl%2F450_1000.jpeg&f=1&nofb=1&ipt=08f5ab01c3650b78f0376cc1ae7f053a6c74cb99e0917be780625ba81fc8f66a&ipo=images",
+            "title": "La Inteligencia Artificial",
+            "publish_date": "2025-07-10",
+            "author": "Narrador",
+            "resume": "El desarrollo y los dilemas éticos de la inteligencia artificial avanzada.",
+            "tags": [
+                "Ciencia Ficción"
+            ]
+        },
+        {
+            "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Finfoliteraria.com%2Fwp-content%2Fuploads%2F2021%2F08%2Festrellas-1-677x1024.jpeg&f=1&nofb=1&ipt=7db0a28e2ff6bdf76cd5af63d9182da0f35fefb66443e2ee28b71ff39ddd473e&ipo=images",
+            "title": "Colonias en Marte",
+            "publish_date": "2025-07-25",
+            "author": "Autor",
+            "resume": "La humanidad establece colonias en Marte y enfrenta nuevos desafíos.",
+            "tags": [
+                "Ciencia Ficción"
+            ]
+        }
+    ],
+    "Misterio": [
+        {
+            "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flavozdelmuro.net%2Fwp-content%2Fuploads%2F2020%2F06%2Fmejores-novelas-misterio-18-1360x2048.jpg&f=1&nofb=1&ipt=e4670635eea0852f6761347cea80800715163ececfdfdc595b37c69be5a00d25&ipo=images",
+            "title": "El Caso del Detective",
+            "publish_date": "2026-01-12",
+            "author": "Escritor de Misterio",
+            "resume": "Un detective enfrenta el caso más difícil de su carrera.",
+            "tags": [
+                "Misterio"
+            ]
+        },
+        {
+            "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2Foriginals%2Ffc%2Ff3%2F10%2Ffcf310f53ad727b77d9c8d790f60f8ae.jpg&f=1&nofb=1&ipt=6840638c52d8b9ec2ad62f3b815daa851716479907cf324c3af609e828222910&ipo=images",
+            "title": "El Enigma del Asesinato",
+            "publish_date": "2026-02-20",
+            "author": "Narrador",
+            "resume": "Un asesinato sin resolver en un pequeño pueblo.",
+            "tags": [
+                "Misterio"
+            ]
+        },
+        {
+            "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2Foriginals%2F6b%2F14%2Fc8%2F6b14c8c4d0eabc88bdfb0b27a6eacf49.jpg&f=1&nofb=1&ipt=d916ad41dc0c1bf7e424cd4e161907ed84915011fbeeb4ff4c2e03af593cb0e3&ipo=images",
+            "title": "El Secreto del Viejo Castillo",
+            "publish_date": "2026-03-05",
+            "author": "Autor",
+            "resume": "Descubriendo los secretos oscuros de un antiguo castillo.",
+            "tags": [
+                "Misterio"
+            ]
+        },
+        {
+            "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.blogs.es%2Fe9e9ad%2F1366_2000-1-%2F450_1000.jpeg&f=1&nofb=1&ipt=533c7c1cf8410e9a12e7d86471c649ef20713efddc2fdbe6e336686fc167816b&ipo=images",
+            "title": "La Sombra en la Niebla",
+            "publish_date": "2026-03-18",
+            "author": "Escritor de Misterio",
+            "resume": "Una serie de desapariciones misteriosas en una ciudad cubierta de niebla.",
+            "tags": [
+                "Misterio"
+            ]
+        },
+        {
+            "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fespaciolibros.com%2Fwp-content%2Fuploads%2F2017%2F08%2Flibros-de-misterio-mentiras-matan.jpg&f=1&nofb=1&ipt=c047a538d56125ec3b57c56be483a30f096513da24cba27102d7d6e75c1ddd21&ipo=images",
+            "title": "El Reloj Maldito",
+            "publish_date": "2026-04-05",
+            "author": "Narrador",
+            "resume": "Un antiguo reloj con una maldición aterradora.",
+            "tags": [
+                "Misterio"
+            ]
+        },
+        {
+            "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.libroslovers.com%2Fwp-content%2Fuploads%2F2021%2F04%2FLibros-de-suspenso-11-1033x1536.jpg&f=1&nofb=1&ipt=e40df1fc9a8af30f44a2e7400eebb375e6490d1fedd5ca9ac2c9fc2a2b34eec6&ipo=images",
+            "title": "El Laberinto de Secretos",
+            "publish_date": "2026-04-20",
+            "author": "Autor",
+            "resume": "Un laberinto lleno de secretos y peligros mortales.",
+            "tags": [
+                "Misterio"
+            ]
+        },
+        {
+            "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.blogs.es%2F7d184d%2F9788417552053%2F450_1000.jpeg&f=1&nofb=1&ipt=2cd3160c32f8df290d025d6309547484072a3449b8912f0b74297b5266e93ce0&ipo=images",
+            "title": "La Casa Embrujada",
+            "publish_date": "2026-05-10",
+            "author": "Escritor de Misterio",
+            "resume": "Explorando los misterios de una casa embrujada.",
+            "tags": [
+                "Misterio"
+            ]
+        },
+        {
+            "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2F736x%2F53%2F21%2Ff9%2F5321f9231a66d707fd34218b51969645.jpg&f=1&nofb=1&ipt=fd2d93ba145dff75b5d20b7889ffe15e95795f378c7a2e9430f1102afa2d99f7&ipo=images",
+            "title": "El Misterio del Tren",
+            "publish_date": "2026-05-25",
+            "author": "Narrador",
+            "resume": "Un tren lleno de pasajeros y un misterio sin resolver.",
+            "tags": [
+                "Misterio"
+            ]
+        },
+        {
+            "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fespaciolibros.com%2Fwp-content%2Fuploads%2F2017%2F08%2Flibros-de-misterio-no-eres-lo-que-dicen-de-ti.jpg&f=1&nofb=1&ipt=12cb79db22f1291680b58cf84f16e9888e513f001a43927e19a33ca43354963c&ipo=images",
+            "title": "La Ciudad Oculta",
+            "publish_date": "2026-06-10",
+            "author": "Autor",
+            "resume": "Descubriendo una ciudad oculta llena de secretos.",
+            "tags": [
+                "Misterio"
+            ]
+        }
+    ],
+    "Romantica": [
+        {
+            "image": "https://cdn.culturagenial.com/es/imagenes/mapa-de-los-anhelos.jpg",
+            "title": "Amor Eterno",
+            "publish_date": "2024-02-14",
+            "author": "Escritor de Romance",
+            "resume": "Una historia de amor que trasciende el tiempo.",
+            "tags": [
+                "Romanticas"
+            ]
+        },
+        {
+            "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fconsejos.disfrutabox.com%2Fwp-content%2Fuploads%2F2022%2F02%2Flibros-romanticos-orgullo-y-prejuicio-698x1024.jpg&f=1&nofb=1&ipt=e83b26303ab0685003daa115ab5b2a3942384518c539947ff200163444ef5169&ipo=images",
+            "title": "Pasión Bajo las Estrellas",
+            "publish_date": "2024-03-01",
+            "author": "Narrador",
+            "resume": "Un romance que florece bajo el cielo estrellado.",
+            "tags": [
+                "Romanticas"
+            ]
+        },
+        {
+            "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.culturagenial.com%2Fes%2Fimagenes%2Fun-dia-de-diciembre-portada-cke.jpg&f=1&nofb=1&ipt=1bbfd6cf5c8a852c72b4756fbf3de91dbc6492ecc02e10e98dab8367bee4e868&ipo=images",
+            "title": "Corazones Encontrados",
+            "publish_date": "2024-03-18",
+            "author": "Autor",
+            "resume": "Dos almas perdidas se encuentran y enamoran.",
+            "tags": [
+                "Romanticas"
+            ]
+        },
+        {
+            "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2Foriginals%2Fe1%2Fb7%2F35%2Fe1b73562630b66ddc9ae4ed373a16a1c.jpg&f=1&nofb=1&ipt=6cd9a963fa2c3cbb1be9fd67af013f359660dd6070f85bc9a17b67048ca83734&ipo=images",
+            "title": "Un Amor Inolvidable",
+            "publish_date": "2024-04-05",
+            "author": "Escritor de Romance",
+            "resume": "Una historia de amor que nadie puede olvidar.",
+            "tags": [
+                "Romanticas"
+            ]
+        },
+        {
+            "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2Foriginals%2F58%2F87%2Faa%2F5887aad6139f6039b18d9b5804afb3cc.jpg&f=1&nofb=1&ipt=e7e7ca8392f26d0e96d66b20502790aaf35480e1f29ca02aee620279957efb22&ipo=images",
+            "title": "Destinos Cruzados",
+            "publish_date": "2024-04-20",
+            "author": "Narrador",
+            "resume": "Dos vidas se cruzan en el momento perfecto.",
+            "tags": [
+                "Romanticas"
+            ]
+        },
+        {
+            "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fhips.hearstapps.com%2Fhmg-prod.s3.amazonaws.com%2Fimages%2Fla-villa-de-las-telas-1630367713.jpg%3Fcrop%3D1xw%3A1xh%3Bcenter%2Ctop%26resize%3D480%3A*&f=1&nofb=1&ipt=b4cb48646283252f9ddc5f1721f5a5eb5256cb31bc7e8cc7517c9d10b2c95ff6&ipo=images",
+            "title": "La Promesa",
+            "publish_date": "2024-05-10",
+            "author": "Autor",
+            "resume": "Un amor que sobrevive a todas las adversidades.",
+            "tags": [
+                "Romanticas"
+            ]
+        },
+        {
+            "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.culturagenial.com%2Fes%2Fimagenes%2Fcuando-vuelva-a-encontrarte-portada-cke.jpg&f=1&nofb=1&ipt=c3772393a98c93eb150b9a9896971808cae695139245d72495afef5ba21bdc3b&ipo=images",
+            "title": "Bajo la Lluvia",
+            "publish_date": "2024-05-25",
+            "author": "Escritor de Romance",
+            "resume": "Un encuentro romántico bajo la lluvia.",
+            "tags": [
+                "Romanticas"
+            ]
+        },
+        {
+            "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.culturagenial.com%2Fes%2Fimagenes%2Fdel-amor-y-otros-demonios-portada-cke.jpg&f=1&nofb=1&ipt=d447074dc39609d871d74eb159935fc38a1917451282a4cf56ac56b84bebb30a&ipo=images",
+            "title": "Amor en la Toscana",
+            "publish_date": "2024-06-10",
+            "author": "Narrador",
+            "resume": "Un romance en los hermosos paisajes de la Toscana.",
+            "tags": [
+                "Romanticas"
+            ]
+        },
+        {
+            "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.culturagenial.com%2Fes%2Fimagenes%2Fsolo-un-amor-de-verano-cke.jpg&f=1&nofb=1&ipt=0045e2111d4eb43012a8bf25c1d0a1b0845a3a00a87b6448a782b769242ec41b&ipo=images",
+            "title": "El Encanto del Amor",
+            "publish_date": "2024-06-25",
+            "author": "Autor",
+            "resume": "Una historia de amor llena de encanto y magia.",
+            "tags": [
+                "Romanticas"
+            ]
+        }
+    ],
+    "LibrosDeTexto": [
+        {
+            "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.blogs.es%2F0bb44a%2Ffabu%2F1366_2000.jpg&f=1&nofb=1&ipt=df3f2710e129eda30db7ac55df52d98d1dd3b8888c9fb37b33b821796b17649b&ipo=images",
+            "title": "Matemáticas para Todos",
+            "publish_date": "2023-08-10",
+            "author": "Profesor",
+            "resume": "Un libro de texto completo para aprender matemáticas.",
+            "tags": [
+                "Libros de texto"
+            ]
+        },
+        {
+            "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi0.wp.com%2Fdocentesaldia.com%2Fwp-content%2Fuploads%2F2023%2F06%2FMultiples-lenguajes-primer-grado.jpeg%3Fw%3D949%26ssl%3D1&f=1&nofb=1&ipt=e3b5b1c76777a380cae49bb9778a75b46c5b57b6052c8e512d5dffd897230660&ipo=images",
+            "title": "Historia Universal",
+            "publish_date": "2023-09-15",
+            "author": "Historiador",
+            "resume": "Un recorrido por la historia universal desde la antigüedad hasta hoy.",
+            "tags": [
+                "Libros de texto"
+            ]
+        },
+        {
+            "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fstorage.googleapis.com%2Fwww-paredro-com%2Fuploads%2F2019%2F08%2Ffe2db5bb--portadas-de-los-libros-de-texto-gratuitos-de-la-sep-1960-20192-337x420.png&f=1&nofb=1&ipt=e76543734e00f3efd53af8ca474c27bf42410d9626c1e18c5f1228f6b65208e8&ipo=images",
+            "title": "Ciencias Naturales",
+            "publish_date": "2023-10-20",
+            "author": "Científico",
+            "resume": "Una guía completa sobre ciencias naturales para estudiantes.",
+            "tags": [
+                "Libros de texto"
+            ]
+        },
+        {
+            "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fportadasw.com%2Fwp-content%2Fuploads%2Fportadas-de-libros-infantiles-4-768x1086.jpg&f=1&nofb=1&ipt=888604e2d320c78e34d6458fbcc634f907f858772396b8eb92b463b1d1d6d070&ipo=images",
+            "title": "Literatura Clásica",
+            "publish_date": "2023-11-25",
+            "author": "Crítico Literario",
+            "resume": "Estudios y análisis de la literatura clásica mundial.",
+            "tags": [
+                "Libros de texto"
+            ]
+        },
+        {
+            "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fstorage.googleapis.com%2Fwww-paredro-com%2Fuploads%2F2019%2F08%2Fdd916b8c--portadas-de-los-libros-de-texto-gratuitos-de-la-sep-1960-20195.png&f=1&nofb=1&ipt=43d0f7ba1335dc8e2adab4cc0d82b6a0aa71de30e525f5fdea42f42207d0a986&ipo=images",
+            "title": "Química Básica",
+            "publish_date": "2023-12-30",
+            "author": "Químico",
+            "resume": "Fundamentos de química para estudiantes de secundaria.",
+            "tags": [
+                "Libros de texto"
+            ]
+        },
+        {
+            "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2Foriginals%2Fab%2Fec%2Fd5%2Fabecd51b79366c089872d1e88e6c7424.jpg&f=1&nofb=1&ipt=389d84691467184cd1f735a95942cbf36d6e682237f7c16f600ed593696e79e1&ipo=images",
+            "title": "Física Moderna",
+            "publish_date": "2024-01-05",
+            "author": "Físico",
+            "resume": "Introducción a los conceptos de la física moderna.",
+            "tags": [
+                "Libros de texto"
+            ]
+        },
+        {
+            "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fstorage.googleapis.com%2Fwww-paredro-com%2Fuploads%2F2019%2F08%2Fd4f6eccb--portadas-de-los-libros-de-texto-gratuitos-de-la-sep-1960-20196.png&f=1&nofb=1&ipt=30125d00446e0c9a3c435263bf08796a49c93f9afc4ae297c977b54a18f9ab71&ipo=images",
+            "title": "Biología General",
+            "publish_date": "2024-02-10",
+            "author": "Biólogo",
+            "resume": "Un libro de texto integral sobre biología.",
+            "tags": [
+                "Libros de texto"
+            ]
+        },
+        {
+            "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi0.wp.com%2Fdocentesaldia.com%2Fwp-content%2Fuploads%2F2023%2F06%2Fproyectos-comunitarios-primer-grado.jpeg%3Fw%3D942%26ssl%3D1&f=1&nofb=1&ipt=cbcf84364b590ca0e375d36f6994407ce572316086ed46b3f212daf4ab6b6e1d&ipo=images",
+            "title": "Geografía Humana",
+            "publish_date": "2024-03-15",
+            "author": "Geógrafo",
+            "resume": "Explorando los conceptos de la geografía humana.",
+            "tags": [
+                "Libros de texto"
+            ]
+        },
+        {
+            "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimagessl3.casadellibro.com%2Fa%2Fl%2Ft0%2F53%2F9788498922653.jpg&f=1&nofb=1&ipt=dc706c7867de499342a876cb604dfc0b32283c3fb3a26bcada73b5c89e460304&ipo=imagesg",
+            "title": "Arte y Cultura",
+            "publish_date": "2024-04-20",
+            "author": "Crítico de Arte",
+            "resume": "Estudios sobre el arte y la cultura a lo largo de la historia.",
+            "tags": [
+                "Libros de texto"
+            ]
+        }
+    ],
+    "Gastronomia": [
+        {
+            "image": "https://www.lahostelera.com/blog/wp-content/uploads/2020/12/especias-860x1024.jpg",
+            "title": "Cocina Gourmet",
+            "publish_date": "2023-01-10",
+            "author": "Chef Famoso",
+            "resume": "Recetas exquisitas de la cocina gourmet.",
+            "tags": [
+                "Gastronomia"
+            ]
+        },
+        {
+            "image": "https://m.media-amazon.com/images/I/81U4V5yewhL._AC_UF894,1000_QL80_.jpg",
+            "title": "Sabores del Mundo",
+            "publish_date": "2023-02-15",
+            "author": "Chef Internacional",
+            "resume": "Explorando los sabores de diferentes culturas.",
+            "tags": [
+                "Gastronomia"
+            ]
+        },
+        {
+            "image": "https://www.gastroactitud.com/wp-content/uploads/2020/01/Libros-Gastroactitud-2019-Pe%CC%81rez-Samper-scaled.jpeg",
+            "title": "Platos Caseros",
+            "publish_date": "2023-03-20",
+            "author": "Cocinero Casero",
+            "resume": "Recetas fáciles y deliciosas para hacer en casa.",
+            "tags": [
+                "Gastronomia"
+            ]
+        },
+        {
+            "image": "https://conelmorrofino.com/wp-content/uploads/2020/04/mejores-libros-de-gastronomia-y-cocina-Tu-casa-mi-casa.-Recetas-de-nuestra-cocina-mexicana-Enrique-Olvera.jpg",
+            "title": "Repostería Creativa",
+            "publish_date": "2023-04-25",
+            "author": "Maestro Repostero",
+            "resume": "Postres y dulces para todas las ocasiones.",
+            "tags": [
+                "Gastronomia"
+            ]
+        },
+        {
+            "image": "https://e00-telva.uecdn.es/assets/multimedia/imagenes/2023/01/04/16728387159810.jpg",
+            "title": "Cocina Vegana",
+            "publish_date": "2023-05-30",
+            "author": "Chef Vegano",
+            "resume": "Deliciosas recetas sin productos de origen animal.",
+            "tags": [
+                "Gastronomia"
+            ]
+        },
+        {
+            "image": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2021/02/10/16129657243383.jpg",
+            "title": "Cocina Rápida",
+            "publish_date": "2023-06-15",
+            "author": "Cocinero Express",
+            "resume": "Recetas rápidas para personas ocupadas.",
+            "tags": [
+                "Gastronomia"
+            ]
+        },
+        {
+            "image": "https://www.oletvm.com/imagenes/9788419/978841996509.JPG",
+            "title": "Quema y come",
+            "publish_date": "1967-05-",
+            "author": "gato en la cocina",
+            "resume": "cocina saludable",
+            "tags": [
+                "Gastronomia"
+            ]
+        },
+        {
+            "image": "https://i.blogs.es/6777b4/chef6/450_1000.jpg",
+            "title": "Cocina Italiana",
+            "publish_date": "2023-08-05",
+            "author": "Chef Italiano",
+            "resume": "Deliciosas recetas italianas.",
+            "tags": [
+                "Gastronomia"
+            ]
+        },
+        {
+            "image": "https://img.rtve.es/imagenes/dumplings/1655724230855.jpeg",
+            "title": "Cocina Japonesa",
+            "publish_date": "2023-09-01",
+            "author": "Sushi Master",
+            "resume": "Recetas tradicionales japonesas.",
+            "tags": [
+                "Gastronomia"
+            ]
+        }
+    ],
+    "Viajes": [
+        {
+            "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.okchicas.com%2Fwp-content%2Fuploads%2F2018%2F10%2FLibros-te-inspiraran-a-viajar-12.jpg&f=1&nofb=1&ipt=2d4a175942e864e33cc6a6d146a099d7ac66bf10e329d563dc9aa2bedb3c5ce7&ipo=images",
+            "title": "Aventuras en la Naturaleza",
+            "publish_date": "2023-01-15",
+            "author": "Explorador",
+            "resume": "Las mejores rutas para los amantes de la naturaleza.",
+            "tags": [
+                "Viajes"
+            ]
+        },
+        {
+            "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmarketplace.canva.com%2FEAD0BmmGY2M%2F1%2F0%2F1236w%2Fcanva-revista-de-viajes-globo-aerost%25C3%25A1tico-rojo-y-blanco-ZvwY45zgmxs.jpg&f=1&nofb=1&ipt=f115c862c716cb1d742c8b1c7b15ef910b6583d1373426758c4ffd0877242b75&ipo=images",
+            "title": "Ciudades Cosmopolitas",
+            "publish_date": "2023-02-20",
+            "author": "Viajero Urbano",
+            "resume": "Explorando las ciudades más vibrantes del mundo.",
+            "tags": [
+                "Viajes"
+            ]
+        },
+        {
+            "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.trazandoruta.com%2Fwp-content%2Fuploads%2F2020%2F10%2Fportada_los-500-mejores-lugares-para-viajar_aa-vv_201607011739-1301x1536.jpg&f=1&nofb=1&ipt=5566eb894f902ed60b36fc60ccd2c957da3bb45e63ae1c97a5901864144aae57&ipo=images",
+            "title": "Playas Paradisíacas",
+            "publish_date": "2023-03-25",
+            "author": "Fotógrafo de Playa",
+            "resume": "Guía de las mejores playas del mundo.",
+            "tags": [
+                "Viajes"
+            ]
+        },
+        {
+            "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fviajes.nationalgeographic.com.es%2Fmedio%2F2020%2F12%2F14%2Fcuentos-para-salvar-el-planeta_31322449_1200x1128.jpg&f=1&nofb=1&ipt=12a49a4041e11dde07b7588efdd7ab37b8f07f9a7d4fd3c7503bbc1200ed36c5&ipo=images",
+            "title": "Destinos Históricos",
+            "publish_date": "2023-04-30",
+            "author": "Historiador Viajero",
+            "resume": "Lugares llenos de historia y cultura.",
+            "tags": [
+                "Viajes"
+            ]
+        },
+        {
+            "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2Foriginals%2Fd2%2Fd9%2F5f%2Fd2d95f9e3a726f1a3f8c2305c8ca5183.jpg&f=1&nofb=1&ipt=f664cca08dab329327b6189bbbf4a7c41180f1969a8c054ededdf9870e16e0a9&ipo=images",
+            "title": "Rutas Gastronómicas",
+            "publish_date": "2023-05-15",
+            "author": "Gourmet Viajero",
+            "resume": "Los mejores destinos para los amantes de la comida.",
+            "tags": [
+                "Viajes"
+            ]
+        },
+        {
+            "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2F736x%2Fcd%2F58%2F80%2Fcd588060fb3f8969ef57a98fff9400a3.jpg&f=1&nofb=1&ipt=2945320cf9906a337430b0dc8f35f61afc25fda152e2591087e4085fb67cc7b4&ipo=images",
+            "title": "Aventuras Extremas",
+            "publish_date": "2023-06-20",
+            "author": "Adrenalina Pura",
+            "resume": "Lugares para los más atrevidos.",
+            "tags": [
+                "Viajes"
+            ]
+        },
+        {
+            "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.mividaconmigo.com%2Fwp-content%2Fuploads%2F2017%2F09%2FLibros-de-viajes-2.jpg&f=1&nofb=1&ipt=2f3e2931d9eb16048087b8e1b62b39887cefeff27e313286764653357df92ea7&ipo=images",
+            "title": "Viajes en Familia",
+            "publish_date": "2023-07-25",
+            "author": "Viajero Familiar",
+            "resume": "Destinos ideales para disfrutar en familia.",
+            "tags": [
+                "Viajes"
+            ]
+        },
+        {
+            "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fblog.evadium.com%2Fwp-content%2Fuploads%2F2020%2F09%2Flibro-de-viajes-para-regalar-Guia-viajeros-inocentes-mark-twain.jpg&f=1&nofb=1&ipt=db9e0fdbe9b31f34cddba4a3db3cbc78f2f2d8fdedf48e7a727f7e08dd5928e8&ipo=images",
+            "title": "Escapadas Románticas",
+            "publish_date": "2023-08-30",
+            "author": "Romántico Viajero",
+            "resume": "Los mejores lugares para una escapada romántica.",
+            "tags": [
+                "Viajes"
+            ]
+        },
+        {
+            "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fblog.evadium.com%2Fwp-content%2Fuploads%2F2020%2F09%2Flibro-de-viajes-para-regalar-el-peor-viaje-del-mundo-APSLEY-CHERRY-GARRARD-1342x2048.jpg&f=1&nofb=1&ipt=37e9e6e173bec59271d0cf5ae9ea13aa45560ed04deed0b0cda4f75d931158ae&ipo=images",
+            "title": "Viajes Económicos",
+            "publish_date": "2023-09-15",
+            "author": "Viajero Ahorrador",
+            "resume": "Guía para viajar sin gastar mucho dinero.",
+            "tags": [
+                "Viajes"
+            ]
+        }
+    ]
+}
+

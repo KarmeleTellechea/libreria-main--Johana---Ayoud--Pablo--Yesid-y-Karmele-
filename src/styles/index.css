@@ -1,0 +1,96 @@
+@import '../styles/general.css';
+
+body {
+  color: var(--color-1);
+  background-image: url(../resources/fondo.jpeg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  height: 100vh;
+  font-family: "Glass Antiqua", cursive;
+  padding: 30px;
+  margin: 0;
+}
+
+h1, h2 {
+  color: var(--color-1);
+  margin-bottom: 20px;
+  font-size: 60px;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  padding: 80px;
+  width: 700px;
+  height: 200px;
+  margin-top: -10%;
+}
+
+.descripcion {
+  background-color: var(--color-7);
+  box-shadow: 0 0 70px 40px var(--color-2);
+  border-radius: 15px;
+  width: 70%;
+  height: auto;
+  font-size: 25px;
+  padding: 40px;
+}
+
+
+.login-button {
+ 
+  background-color:transparent;
+  background-image: url(../resources/avatar.webp);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 150px;
+  width: 150px;
+  font-size: 22px;
+  margin-top: 100px;
+  color: var(--color-1);
+  border: none;
+  cursor: pointer;
+  -webkit-text-stroke-width: 2px;
+  -webkit-text-stroke-color: var(--color-7);
+  font-weight: bold;
+}
+
+ 
+@media (max-width: 768px) {
+  body {
+      padding: 20px;
+  }
+
+  h1, h2 {
+      font-size: 40px;
+  }
+
+  .container {
+      padding: 4rem;
+      width: 90%;
+      height: auto;
+      margin-top: 0;
+  }
+
+  .descripcion {
+      font-size: 1rem;
+      padding: 1rem ;
+    
+  }
+
+  .login-button {
+      padding: 10px 20px;
+      font-size: 18px;
+      margin-top: 50px;
+  }
+}

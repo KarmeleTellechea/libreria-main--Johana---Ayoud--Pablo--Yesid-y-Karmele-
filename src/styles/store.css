@@ -1,0 +1,288 @@
+@import '../styles/general.css';
+  * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+  }
+
+  /* General styles */
+  body {
+      margin: 0;
+      font-family: "Glass Antiqua", cursive;
+      display: flex;
+      flex-direction: column;
+      height: 100vh;
+      width: 100vw;
+  }
+
+  /* Header styles */
+  header {
+      background-color:var(--color-6);
+      color: white;
+      text-align: center;
+      position: sticky;
+      top: 0;
+      width: 100%;
+      z-index: 1000;
+      text-align: center;
+      padding-top: 50px;
+      position: fixed;
+  }
+
+
+  main {
+      flex: 1;
+      align-items: center;
+      padding: 1rem;
+  }
+
+  h1 {
+      position: relative;
+      font-size: 36px;
+      padding-bottom: 10px;
+  }
+
+  .cesta {
+      margin-left: 90%;
+   
+  }
+ 
+  .cesta span {
+    position: absolute;
+    bottom: 20%;
+    right: 3.7%;
+  }
+
+  h1::before,
+  h1::after {
+      content: '';
+      position: absolute;
+      bottom: 0;
+      width: 1rem;
+      height: .1rem;
+      background-color: #d0d1cd;
+      animation-duration: 1s;
+      /* Duración de la animación */
+      animation-timing-function: ease-out;
+      animation-iteration-count: infinite;
+      animation-direction: alternate;
+
+
+  }
+
+
+  h1::before {
+      left: 50%;
+      transform: translateX(-50%);
+      animation-name: slideRight;
+  }
+
+
+  h1::after {
+      right: 50%;
+      transform: translateX(50%);
+      animation-name: slideLeft;
+  }
+
+  header img {
+      max-width: 100px;
+      margin: 1em 0;
+      padding-bottom: 1.5rem;
+  }
+
+
+  /* Stilos para aside */
+  aside {
+    height: 70vh;
+    background-color:var(--color-6);
+    padding: 1em;
+    width: 250px;
+    flex-shrink: 0;
+    transition: transform 0.3s ease;
+    float: left;
+    box-sizing: border-box;
+    font-family: "Glass Antiqua";
+     position: fixed;
+    top:14rem;
+}
+
+  h2 {
+    color: var(--color-5);
+      font-size: 2rem;
+      margin-bottom: 20px;
+      margin-top: -60px;
+  }
+
+  aside ul {
+      list-style: none;
+      padding: 0;
+  }
+
+  aside li {
+      margin: 0.5em 0;
+
+  }
+
+  aside a {
+      text-decoration: none;
+      color:var(--color-1);
+      line-height: 2rem;
+  }
+
+  aside a:hover {
+      color: #4CAF50;
+      border-bottom: .1rem solid red;
+  }
+
+  /* Main content styles */
+
+
+  #containerlib {
+    margin-top: 12rem;
+      margin-left: 0.5rem;
+      padding: 1rem;
+      padding-right: 1rem;
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: space-between;
+      padding-left: 400px;
+  }
+
+  /* Menu icon styles */
+  .menu-icon {
+      display: none;
+      width: 30px;
+      height: 30px;
+      flex-direction: column;
+      justify-content: space-around;
+      align-items: center;
+      cursor: pointer;
+      z-index: 1001;
+  }
+
+  .menu-icon span {
+      display: block;
+      width: 100%;
+      height: 4px;
+      background-color: #000000;
+      border-radius: 2px;
+  }
+
+  /* Ocultar el checkbox */
+  #menu-toggle {
+      display: none;
+  }
+
+  #volver {
+    border: solid 1px  #fab003;
+    color: #fab003;
+  }
+  /* Responsive design */
+  @media (max-width: 768px) {
+      body {
+          flex-direction: column;
+      }
+      .cesta {
+        margin-left: 70%;
+    }
+   
+    .cesta span {
+      position: absolute;
+      bottom: 20%;
+      right:10%;
+    }
+      #containerlib {
+        margin-left: 0.5rem;
+        padding: 1rem;
+        padding-right: 1rem;
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+      
+    }
+
+      aside {
+          position: fixed;
+          left: 0;
+          top: 0;
+          height: 100%;
+          transform: translateX(-100%);
+          z-index: 1000;
+      }
+
+      #menu-toggle {
+          display: none;
+      }
+
+      /* Estado inicial (hamburguesa) */
+      #menu-toggle:not(:checked)+.menu-icon .line1 {
+          transform: rotate(0deg) translate(0, 0);
+      }
+
+      #menu-toggle:not(:checked)+.menu-icon .line2 {
+          opacity: 1;
+      }
+
+      #menu-toggle:not(:checked)+.menu-icon .line3 {
+          transform: rotate(0deg) translate(0, 0);
+      }
+
+      /* Estado checked (X) */
+      #menu-toggle:checked+.menu-icon .line1 {
+          transform: rotate(45deg) translate(8px, 5px);
+      }
+
+      #menu-toggle:checked+.menu-icon .line2 {
+          opacity: 0;
+      }
+
+      #menu-toggle:checked+.menu-icon .line3 {
+          transform: rotate(-50deg) translate(9px, -5px);
+      }
+
+      #menu-toggle:checked~aside {
+          transform: translateX(0);
+      }
+
+      .menu-icon {
+          display: flex;
+          position: fixed;
+          top: 15px;
+          left: 15px;
+      }
+
+      main {
+          margin-left: 0;
+      }
+
+      aside ul {
+          margin: 2em 0 0 0;
+          padding: 1em;
+      }
+  }
+
+  /* Animación hacia la derecha */
+  @keyframes slideRight {
+      0% {
+          width: 0;
+          /* Ancho inicial */
+      }
+
+      100% {
+          width: 50%;
+          /* Ancho completo */
+      }
+  }
+
+  /* Animación hacia la izquierda */
+  @keyframes slideLeft {
+      0% {
+          width: 0;
+          /* Ancho inicial */
+      }
+
+      100% {
+          width: 50%;
+          /* Ancho completo */
+      }
+  }
